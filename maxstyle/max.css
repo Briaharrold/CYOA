@@ -30,3 +30,18 @@ a {
     text-decoration: none;
     color: black;
 }
+/* YOU CAN ERASE THIS AFTER YOU SEE IT I JUST GAVE YOUR BUTTONS A HOVER EFFECT AND CHAGED THE COLOR */
+button{
+    font-size: 30px;
+    width:20%;
+    background-color: darkslateblue;
+    border-radius: 10px;
+    border: none;
+}
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+  }
+  button:hover{
+    background-color: rgb(255, 255, 255);
+  }
