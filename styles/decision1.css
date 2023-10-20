@@ -1,0 +1,12 @@
+button {
+    font-size: 30px;
+    width: 20%;
+    background-color: darkslateblue;
+    border-radius: 10px;
+    border: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+  }
